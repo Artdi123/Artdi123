@@ -21,7 +21,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Artdi123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8c3c3cbd-7a4c-43da-b1cb-0a207be30230/dixdo22-7f42f7c1-1344-4843-8334-4cbbb22cd9bb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhjM2MzY2JkLTdhNGMtNDNkYS1iMWNiLTBhMjA3YmUzMDIzMFwvZGl4ZG8yMi03ZjQyZjdjMS0xMzQ0LTQ4NDMtODMzNC00Y2JiYjIyY2Q5YmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UYMQ67MKzi7lwgAV7cpEiQrN1rtpWL1vbX-jYQ_m9Vo" width="200" align="right"/>
+<img src="https://i.pinimg.com/originals/e1/72/1d/e1721d4e3fc2119aa282b9ea0e7f9ee4.gif" width="200" align="right"/>
 
 "Nyaa~ thanks for visiting my profile, let’s make something magical together nya~"
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
