@@ -19,7 +19,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Artdi123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Artdi123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Artdi123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) <br>
 
 
 <img src="https://i.pinimg.com/originals/e1/72/1d/e1721d4e3fc2119aa282b9ea0e7f9ee4.gif" width="480" align="left"/> 
