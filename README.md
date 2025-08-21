@@ -1,6 +1,6 @@
 # ✨ Nyaa~ Welcome to Artdi's Profile ✨
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="300" align="right"/>
+<img src="https://media1.tenor.com/m/uKqSgjwq-jcAAAAC/hatsune-miku-oshi-no-ko.gif" width="300" align="right"/>
 
 ## >⩊< H-hello nya~  <br>I'm **Artdi** ≽(•⩊ •マ≼ a **Junior Programmer / Developer** who's still learning but full of curiosity!  <br>Like a playful kitty, I love exploring new tech and coding adventures.  <br>Also... I get inspired a lot by **Hatsune Miku** 🎤💙 because she’s so cute and magical!  <br><br>---<br><br> 🐾 About me  <br>- 🌱 Currently learning **Web Development & Game Dev**  <br>- 💻 I enjoy building small projects and experimenting with new ideas  <br>- 🎵 Loves music (especially Vocaloid songs, Miku supremacy 💙)  <br>- 🐈 A cat-like soul, sometimes shy but full of energy nya~  <br>- ✨ Dream: to grow into a purr-fect developer  
 
