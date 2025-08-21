@@ -21,7 +21,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Artdi123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<img src="https://media1.tenor.com/m/uKqSgjwq-jcAAAAC/hatsune-miku-oshi-no-ko.gif" width="400"/>
+<img src="https://media1.tenor.com/m/uKqSgjwq-jcAAAAC/hatsune-miku-oshi-no-ko.gif" width="600" align="center"/>
 
 "Nyaa~ thanks for visiting my profile, let’s make something magical together nya~"
 
