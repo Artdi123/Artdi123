@@ -1,6 +1,6 @@
 # ✨ Nyaa~ Welcome to Artdi's Profile ✨
 
-<img src="https://media.tenor.com/nZ-accg_sG8AAAAi/anime-cat-girl.gif" width="300" align="right"/>
+<img src="https://media.tenor.com/nZ-accg_sG8AAAAi/anime-cat-girl.gif" width="250" align="right"/>
 
 ## >⩊< H-hello nya~  <br>I'm **Artdi** ≽(•⩊ •マ≼ a **Junior Programmer / Developer** who's still learning but full of curiosity!  <br>Like a playful kitty, I love exploring new tech and coding adventures.  <br>Also... I get inspired a lot by **Hatsune Miku** 🎤💙 because she’s so cute and magical!  <br><br>---<br><br> 🐾 About me  <br>- 🌱 Currently learning **Web Development & Game Dev**  <br>- 💻 I enjoy building small projects and experimenting with new ideas  <br>- 🎵 Loves music (especially Vocaloid songs, Miku supremacy 💙)  <br>- 🐈 A cat-like soul, sometimes shy but full of energy nya~  <br>- ✨ Dream: to grow into a purr-fect developer  
 
@@ -19,11 +19,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=Artdi123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Artdi123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) <br>
+![](https://github-contributor-stats.vercel.app/api?username=Artdi123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-
-<img src="https://i.pinimg.com/originals/e1/72/1d/e1721d4e3fc2119aa282b9ea0e7f9ee4.gif" width="480" align="left"/> 
+---
+<img src="https://i.pinimg.com/originals/e1/72/1d/e1721d4e3fc2119aa282b9ea0e7f9ee4.gif" width="100%"/>
 
 # *Nyaa~ thanks for visiting my profile, let’s make something magical together nya~*
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
