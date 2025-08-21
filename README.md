@@ -6,7 +6,6 @@
 
 
 ## 🌐 Socials:
-<img src="https://media1.tenor.com/m/uKqSgjwq-jcAAAAC/hatsune-miku-oshi-no-ko.gif" width="300" align="right"/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/artdi1804/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Artnyaw) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kianaard) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ardylagita18@gmail.com) 
 
 # 💻 Tech Stack:
