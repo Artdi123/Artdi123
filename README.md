@@ -21,7 +21,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Artdi123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Artdi123&icon=4&color=0)](https://visitcount.itsvg.in)
+<img src="https://media1.tenor.com/m/uKqSgjwq-jcAAAAC/hatsune-miku-oshi-no-ko.gif" width="400"/>
+
+"Nyaa~ thanks for visiting my profile, let’s make something magical together nya~"
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
