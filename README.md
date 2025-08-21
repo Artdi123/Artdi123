@@ -23,6 +23,6 @@
 
 <div align="center">
 <img src="https://i.pinimg.com/originals/e1/72/1d/e1721d4e3fc2119aa282b9ea0e7f9ee4.gif" width="800"/> <br>
-# **"Nyaa~ thanks for visiting my profile, let’s make something magical together nya~"**
 </div>
+# **"Nyaa~ thanks for visiting my profile, let’s make something magical together nya~"**
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
