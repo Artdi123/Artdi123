@@ -1,4 +1,4 @@
-# ✨ Nyaa~ Welcome to Artdi's Profile ✨
+<img width="498" height="362" alt="image" src="https://github.com/user-attachments/assets/b6c56c34-95b1-44f3-8f51-95a8ad9271e0" /># ✨ Nyaa~ Welcome to Artdi's Profile ✨
 
 <img src="https://media.tenor.com/nZ-accg_sG8AAAAi/anime-cat-girl.gif" width="300" align="right"/>
 
@@ -21,7 +21,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Artdi123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+<img src="[https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif](https://media1.tenor.com/m/bHhlulJqK34AAAAd/hatsune-miku-miku.gif)" width="200" align="right"/>
 
-
-
+"Nyaa~ thanks for visiting my profile, let’s make something magical together nya~"
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
