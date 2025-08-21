@@ -21,9 +21,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Artdi123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<div align="center">
-<img src="https://i.pinimg.com/originals/e1/72/1d/e1721d4e3fc2119aa282b9ea0e7f9ee4.gif" width="800"/> <br>
+
+<img src="https://i.pinimg.com/originals/e1/72/1d/e1721d4e3fc2119aa282b9ea0e7f9ee4.gif" width="500" align="right"/> <br>
+
+
 # *Nyaa~ thanks for visiting my profile, let’s make something magical together nya~*
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
