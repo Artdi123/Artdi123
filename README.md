@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/nZ-accg_sG8AAAAi/anime-cat-girl.gif" width="250" align="right"/>
 
-## >⩊< H-hello nya~  <br>I'm **Artdi** ≽(•⩊ •マ≼ a **Junior Programmer / Developer** who's still learning but full of curiosity!  <br>Like a playful kitty, I love exploring new tech and coding adventures.  <br>Also... I get inspired a lot by **Hatsune Miku** 🎤💙 because she’s so cute and magical!  <br><br>---<br><br> 🐾 About me  <br>- 🌱 Currently learning **Web Development & Game Dev**  <br>- 💻 I enjoy building small projects and experimenting with new ideas  <br>- 🎵 Loves music (especially Vocaloid songs, Miku supremacy 💙)  <br>- 🐈 A cat-like soul, sometimes shy but full of energy nya~  <br>- ✨ Dream: to grow into a purr-fect developer  
+## >⩊< H-hello nya~  <br>I'm **Artdi** ≽(•⩊ •マ≼ a **Junior Programmer / Developer** who's still learning but full of curiosity!  <br>Like a playful kitty, I love exploring new tech and coding adventures.  <br>Also... I get inspired a lot by **Hatsune Miku** 🎤💙 because she’s so cute and magical!  <br><br><br><br> 🐾 About me  <br>- 🌱 Currently learning **Web Development & Game Dev**  <br>- 💻 I enjoy building small projects and experimenting with new ideas  <br>- 🎵 Loves music (especially Vocaloid songs, Miku supremacy 💙)  <br>- 🐈 A cat-like soul, sometimes shy but full of energy nya~  <br>- ✨ Dream: to grow into a purr-fect developer  
 
 
 ## 🌐 Socials:
