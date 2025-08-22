@@ -1,4 +1,4 @@
-# ✨ Nyaa~ Welcome to Artdi's Profile ✨
+  # ✨ Nyaa~ Welcome to Artdi's Profile ✨
 
 
 ## >⩊< H-hello nya~  <br>I'm **Artdi** ≽(•⩊ •マ≼ a **Junior Programmer / Developer** who's still learning but full of curiosity!  <br>Like a playful kitty, I love exploring new tech and coding adventures.  <br>Also... I get inspired a lot by **Hatsune Miku** 🎤💙     because she’s so cute and magical! <br>
@@ -89,6 +89,27 @@
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Artdi123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+## 🎵 My Music
+
+<div align="center">
+  <a href="https://open.spotify.com/user/314qgmsoh2lafzrluhtjpi3mcide?si=af8b076eabf04cfa" target="_blank">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=314qgmsoh2lafzrluhtjpi3mcide&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" 
+      width="300" 
+      alt="Spotify Now Playing"
+    />
+     <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=314qgmsoh2lafzrluhtjpi3mcide&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" 
+      width="300" 
+      alt="Spotify Now Playing"
+    />
+  </a>
+<br/>
+<i>HATSUNE MIKU SUPREMACY!!!</i>
 </div>
 
 ---
